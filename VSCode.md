@@ -41,5 +41,3 @@ PHP DockBlock
 
 PHP IntelliSense
 [https://github.com/felixfbecker/vscode-php-intellisense](https://github.com/felixfbecker/vscode-php-intellisense)
-
-asdasdasdasdsdasdasdasdasdasdasdasdasdasd
