@@ -1,4 +1,7 @@
 # Temas
+Ayu
+[https://github.com/ayu-theme/vscode-ayu](https://github.com/ayu-theme/vscode-ayu)
+
 Material Theme
 [https://github.com/equinusocio/vsc-material-theme](https://github.com/equinusocio/vsc-material-theme)
 
@@ -16,6 +19,9 @@ GitLens
 Prettier
 [https://github.com/prettier/prettier-vscode](https://github.com/prettier/prettier-vscode)
 
+EditorConfig
+[https://github.com/editorconfig/editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
+
 # Javascript
 Document This
 [https://github.com/joelday/vscode-docthis](https://github.com/joelday/vscode-docthis)
@@ -29,8 +35,14 @@ ES6 Snippets
 JS Refactor
 [https://github.com/cmstead/js-refactor](https://github.com/cmstead/js-refactor)
 
+TS/JS postfix completion
+[https://github.com/ipatalas/vscode-postfix-ts](https://github.com/ipatalas/vscode-postfix-ts)
+
 Vue Snippets
 [https://github.com/hollowtree/vscode-vue-snippets](https://github.com/hollowtree/vscode-vue-snippets)
+
+Import Cost
+[https://github.com/wix/import-cost](https://github.com/wix/import-cost)
 
 # PHP
 PHP CS Fixer
@@ -41,3 +53,6 @@ PHP DockBlock
 
 PHP IntelliSense
 [https://github.com/felixfbecker/vscode-php-intellisense](https://github.com/felixfbecker/vscode-php-intellisense)
+
+PHP Intelephense
+[https://github.com/bmewburn/vscode-intelephense](https://github.com/bmewburn/vscode-intelephense)
