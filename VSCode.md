@@ -9,6 +9,10 @@ Material Theme
 Material Icons
 [https://github.com/PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
 
+# Fontes
+Fira Code
+[https://github.com/tonsky/FiraCode](https://github.com/tonsky/FiraCode)
+
 # Diversos
 Atom Keymap
 [https://github.com/Microsoft/vscode-atom-keybindings](https://github.com/Microsoft/vscode-atom-keybindings)
