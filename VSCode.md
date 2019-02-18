@@ -7,7 +7,7 @@ Material Theme
 
 # Transparência
 ``` bash
-$((0xffffffff * 99 / 100)))
+$(printf 0x%x $((0xffffffff * 87 / 100)))
 
 sudo apt-get install devilspie
 mkdir -p ~/.devilspie
