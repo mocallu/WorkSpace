@@ -5,6 +5,21 @@ Ayu
 Material Theme
 [https://github.com/equinusocio/vsc-material-theme](https://github.com/equinusocio/vsc-material-theme)
 
+# Transparência
+``` bash
+$((0xffffffff * 99 / 100)))
+
+sudo apt-get install devilspie
+mkdir -p ~/.devilspie
+nano ~/.devilspie/transparent.ds
+
+( if
+( contains ( window_class ) "Code" )
+( begin
+( spawn_async (str "xprop -id " (window_xid) " -f _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY 0xf3333332") )
+)
+)
+```
 # Ícones
 Material Icons
 [https://github.com/PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
